@@ -1,4 +1,0 @@
-file:///C:/wamp64/www/bolaji/dist/admin/login/index.html
-http://localhost/bolaji/admin/master/index.php
-http://localhost/bolaji/home/index.html#home
-http://localhost/bolaji/admin/master/index.php
